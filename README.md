@@ -10,5 +10,9 @@ https://docs.kucoin.com/futures/#get-real-time-symbol-ticker-v2
 - Plot bar chart of latest 50 bid/asks. Also, see average of 50 bids, ask, and other useful metrics such as spread. 
 - You can use this for live trading or other lower time-frame trading strategies. 
 
+<p align="center">
+  <img src = 'https://github.com/Jim2E/bid_ask_kucoin_live/blob/main/bid_ask_visual.png' width = "780">
+</p>
+
 Next Steps: Connect to KuCoin sandbox to test live pairs trading or other strategies and create report on performance. 
 
