@@ -7,7 +7,7 @@ https://docs.kucoin.com/futures/#get-real-time-symbol-ticker-v2
 - Use KuCoin SDK docs to connect to Websocket: https://github.com/Kucoin/kucoin-python-sdk
 - Import and use asyncio to work around having to create a client server.
 - Subscribe this topic: "/contractMarket/level2:{symbol}", to get Level 2 order book data.The websocket system will send the incremental feed to you.
-- Plot bar chart of latest 50 bid/asks. Also, see average of 50 bids, ask, and other useful metrics such as spread. 
+- Plot bar chart of latest 50 bid/asks. Get an average of 50 bids, ask, and other useful metrics. 
 - You can use this for live trading or other lower time-frame trading strategies. 
 
 <p align="center">
