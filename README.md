@@ -1,4 +1,4 @@
-# Market Data: Bid/Ask Data from KuCoin using WebSocket
+# Market Data: Bid/Ask Data from KuCoin
 
 https://docs.kucoin.com/futures/#get-real-time-symbol-ticker-v2
 
